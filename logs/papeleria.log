@@ -1,0 +1,5 @@
+2025-04-30 09:15  INFO 13270 --- [mipapeleria] [main] e.mde.papeleria.MipapeleriaApplication   : Starting MipapeleriaApplication using Java 21.0.6 with PID 13270 (/media/a07/SOTO/24 BACKEND/papeleria/build/classes/java/main started by a07 in /media/a07/SOTO/24 BACKEND/papeleria)
+2025-04-30 09:15  INFO 13270 --- [mipapeleria] [main] e.mde.papeleria.MipapeleriaApplication   : No active profile set, falling back to 1 default profile: "default"
+2025-04-30 09:15  WARN 13270 --- [mipapeleria] [main] org.hibernate.orm.deprecation            : HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2025-04-30 09:15  WARN 13270 --- [mipapeleria] [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-04-30 09:15  INFO 13270 --- [mipapeleria] [main] e.mde.papeleria.MipapeleriaApplication   : Started MipapeleriaApplication in 5.136 seconds (process running for 5.454)
